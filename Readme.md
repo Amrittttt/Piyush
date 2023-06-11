@@ -1,7 +1,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer;Aspiring+Full+Stack+Developer;Student+%40+Banasthali+Vidyapith" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer;Aspiring+Full+Stack+Developer;Student+%40+NIT Meghalaya" alt="Typing SVG" /></a>
 </p>
 
 <!-- Brief Text About Myself -->
@@ -13,13 +13,11 @@
 <!-- Main Content Of The Page -->
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 *Here Are Some Of The Points to know more about Me :* 
-- 🔭 I’m Currently Solving Question on - [LeetCode & Geeks for Geeks]<br>
-- 🌱 I’m Currently Learning `Full Stack Development` <br>
-- 💻 Tech Team Member @ All About Progamming and WebDeveloper Intern @ Codedu
-- 👨‍💻 My Portfolio : [My_Page](https://parulchaddha.netlify.app/) 
+- 🔭 I’m Currently Solving Question on - [LeetCode,Codechef and Geeks for Geeks]<br>
+- 🌱 Learning `Full Stack Development` <br>
+- 💻 WebDeveloper Intern @ Codeclause and sparks foundation
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
-- 📄 Know about My Projects : [My_Projects](https://github.com/parulchaddha?tab=repositories)
 <br>
 <!-- Find Me On The Web -->
 <p align="center">
