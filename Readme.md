@@ -8,6 +8,7 @@
 <h4 align="center"> Competitive Programmer | Full Stack Developer  </h4>
 
 <!-- Typing Master Picture --> 
+https://readme-typing-svg.demolab.com/?lines=First+CP+of+text;Second+Web D+of+text)](https://git.io/typing-svg
 <img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/Lady%20Programmer.gif" width="500"/>
 <br /> <br />
 <!-- Main Content Of The Page -->
